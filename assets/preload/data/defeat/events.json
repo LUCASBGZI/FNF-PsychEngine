@@ -1,0 +1,76 @@
+{
+	"song": {
+		"events": [
+			[
+				20400,
+				[
+					[
+						"Flashes Camera",
+						"1",
+						""
+					],
+					[
+						"Thepotra",
+						"go pico",
+						""
+					],
+					[
+						"Change Character",
+						"bf",
+						"bf-miedoso"
+					]
+				]
+			],
+			[
+				87600,
+				[
+					[
+						"Thepotra",
+						"old",
+						""
+					],
+					[
+						"Flashes Camera",
+						"1",
+						""
+					],
+					[
+						"Change Character",
+						"dad",
+						"black-old"
+					],
+					[
+						"Change Character",
+						"bf",
+						"bf"
+					]
+				]
+			],
+			[
+				108000,
+				[
+					[
+						"Thepotra",
+						"new",
+						""
+					],
+					[
+						"Flashes Camera",
+						"1",
+						""
+					],
+					[
+						"Change Character",
+						"bf",
+						"bf-miedoso"
+					],
+					[
+						"Change Character",
+						"dad",
+						"black"
+					]
+				]
+			]
+		]
+	}
+}
