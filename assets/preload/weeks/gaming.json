@@ -1,0 +1,31 @@
+{
+	"storyName": "epic cover",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "covere",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"roasted",
+			"bf",
+			[
+				0,
+				213,
+				255
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "Custom Week"
+}

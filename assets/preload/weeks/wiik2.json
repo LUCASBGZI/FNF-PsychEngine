@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"sporting",
+			"matte",
+			[
+				155,
+				60,
+				0
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "Hard",
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"storyName": "c.a.g.a.s.t.e",
+	"weekName": "wiik2",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "wiik",
+	"startUnlocked": true
+}
