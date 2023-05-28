@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "BF idle dance"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-40,
+				-65
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "ALT 2 BF DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				7,
+				10
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "ALT 2 BF LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-55,
+				-7
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "ALT 2 BF RIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-75,
+				68
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "ALT 2 BF UP",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Mathexs",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
